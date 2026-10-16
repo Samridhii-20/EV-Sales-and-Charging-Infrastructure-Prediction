@@ -117,6 +117,27 @@ The project provides:
 
 ---
 
+## Tableau Dashboard: EV Adoption & Charging Infrastructure Analytics
+
+Developed an interactive Tableau dashboard to explore EV adoption
+and public charging infrastructure across Indian states and UTs.
+
+### Dashboard Features
+- State-wise EV sales analysis across India
+- State-wise EV sales trends over time (2014 - 2024)
+- Comparison of public charging infrastructure across FY 2022–2025
+- Interactive state filter to explore individual states
+
+### Dashboard Preview
+![EV Analytics Dashboard](ev-dashboard.png)
+
+### How to View
+Download the packaged Tableau workbook (`.twbx`) from this repository
+and open it using Tableau Desktop.
+
+---
+
+
 ## 🔮 Future Scope
 
 - Deploy the forecasting model using Streamlit or Flask.
